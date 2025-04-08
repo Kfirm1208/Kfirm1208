@@ -7,7 +7,7 @@ Year 3th student at KMITL
 I'm passionate about Web Development and AI & Data. On the Web Development side, I specialize in Front-end development and have some experience in Back-end development. In the field of AI, I have hands-on experience in image classification using Deep Learning.
 
 * 🌍  I'm based in Phathumtani Thailand
-* ✉️  You can contact me at [kfirm1433@gmail.com](mailto:kfirm1433@gmail.com)
+* ✉️  You can contact me at [thammawongpornthep@gmail.com.com](mailto:thammawongpornthep@gmail.com)
 * 🧠  I'm learning React.js, Next.js, Bootstrap 5 ,Pytorch, Tensorflow, Numpy, Keras
 * 🤝  I'm open to collaborating on projects that bridge technology and innovation. On the developer side, I aim to create a website that integrates AI to enhance the user experience and effectively meet user needs. On the AI & Data side, I focus on leveraging models to predict emerging business trends and uncover potential opportunities. By combining these elements, I strive to deliver impactful solutions that drive growth and innovation.
 * ⚡  Chasing chances? Stop dreaming, get to work!
