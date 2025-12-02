@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pornthep Thammawong
 ===========================================================================================================================================
 
-Year 3th student at KMITL
+Year 4th student at KMITL
 -------------------------
 
 I'm passionate about Web Development and AI & Data. On the Web Development side, I specialize in Front-end development and have some experience in Back-end development. In the field of AI, I have hands-on experience in image classification using Deep Learning.
